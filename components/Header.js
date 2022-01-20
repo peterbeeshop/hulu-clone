@@ -20,6 +20,9 @@ function Header() {
         <HeaderItem title="SEARCH" Icon={SearchIcon} />
         <HeaderItem title="ACCOUNT" Icon={UserIcon} />
       </div>
+      <strong className="bg-[#335d6e] text-lg rounded-full text-center lg:mb-5">
+        By Peter Beeshop
+      </strong>
       <Image
         className="object-contain"
         src="https://links.papareact.com/ua6"

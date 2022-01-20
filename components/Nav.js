@@ -21,7 +21,7 @@ function Nav() {
           );
         })}
       </div>
-      <div className="absolute top-0 right-0 bg-gradient-to-l from-[#06202a] h-10 w-1/2" />
+      <div className="absolute top-0 right-0 bg-gradient-to-l from-[#06202a] h-10 w-1" />
     </nav>
   );
 }
